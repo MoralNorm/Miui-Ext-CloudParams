@@ -1,0 +1,30 @@
+{
+    "com.miui.mediaeditor": {
+        "PictureCropLimit": {
+            "0.9.5.4": {
+                "className": "com.miui.gallery.editor.photo.core.imports.obsoletes.Crop$o00Oo0",
+                "methodName": "OooO00o"
+            },
+            "1.0.1.23": {
+                "className": [
+                    "com.miui.gallery.editor.photo.core.imports.obsoletes.Crop$r",
+                    "com.miui.gallery.editor.photo.screen.crop.ScreenCropView$h"
+                ],
+                "methodName": [
+                    "a",
+                    "e"
+                ]
+            },
+            "1.0.1.10.2": {
+                "className": [
+                    "com.miui.gallery.editor.photo.core.imports.obsoletes.Crop$r",
+                    "com.miui.gallery.editor.photo.screen.crop.ScreenCropView$h"
+                ],
+                "methodName": [
+                    "a",
+                    "e"
+                ]
+            }
+        }
+    }
+}
